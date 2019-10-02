@@ -5,6 +5,7 @@ public class class2 {
 	byte b;
 	short s;
 	boolean bool;
+	String x;
 	
 
 	public void y1() {
